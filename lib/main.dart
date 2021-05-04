@@ -1,4 +1,4 @@
-import 'file:///C:/Users/Llrei/OneDrive/Documentos/FURB/CASI/casi_app/lib/pages/home/home_page.dart';
+import 'package:casi_app/pages/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
